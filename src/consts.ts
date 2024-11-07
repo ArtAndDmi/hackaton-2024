@@ -1,0 +1,5 @@
+export const REG_LINK = 'https://forms.yandex.ru/u/67229f3673cee75a6276e603/'
+export const TG_LINK = 'https://t.me/mirea_hackathon'
+export const PHOTO_LINK = 'https://www.mirea.ru/news/podvedeny-itogi-masshtabnogo-mnogodnevnogo-khakatona-tsifrovoy-suverenitet/'
+export const STATE_LINK = 'https://mirea.ru/'
+export const AGREEMENT_LINK = 'https://clck.ru/3EJcGW'
